@@ -10,7 +10,6 @@ I'm using [Elegoo Arduino MEGA 2560](https://www.elegoo.com/products/elegoo-mega
 ## Python Libraries
 
 **PySerial** - https://pypi.org/project/pyserial
-
 **PyAutoGUI** - https://pypi.org/project/PyAutoGUI
 
 ## Configuration

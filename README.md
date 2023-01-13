@@ -5,12 +5,12 @@ I'm using [Elegoo Arduino MEGA 2560](https://www.elegoo.com/products/elegoo-mega
 
 ## Arduino Libraries
 
-**Keypad** - https://github.com/Chris--A/Keypad
+- **Keypad** - https://github.com/Chris--A/Keypad
 
 ## Python Libraries
 
-**PySerial** - https://pypi.org/project/pyserial
-**PyAutoGUI** - https://pypi.org/project/PyAutoGUI
+- **PySerial** - https://pypi.org/project/pyserial/
+- **PyAutoGUI** - https://pypi.org/project/PyAutoGUI/
 
 ## Configuration
 **Inside of configuration group of .ino and .py file.**
